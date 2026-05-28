@@ -2,3 +2,4 @@
 Ultralytics/
 output/
 *.pt
+*.mp4
