@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Yasmine Alonso",
+    "entered": "0:0",
+    "left": "0:00:01.33",
+    "entered_seconds": 0.0,
+    "left_seconds": 1.33,
+    "duration_seconds": 1.33
+  },
+  {
+    "name": "Yasmine Alonso",
+    "entered": "0:00:03.67",
+    "left": "0:00:04.83",
+    "entered_seconds": 3.67,
+    "left_seconds": 4.83,
+    "duration_seconds": 1.17
+  },
+  {
+    "name": "Kate Baker",
+    "entered": "0:00:24.17",
+    "left": "0:00:27.50",
+    "entered_seconds": 24.17,
+    "left_seconds": 27.5,
+    "duration_seconds": 3.33
+  },
+  {
+    "name": "Yasmine Alonso",
+    "entered": "0:0",
+    "left": "0:00:45.50",
+    "entered_seconds": 33.0,
+    "left_seconds": 45.5,
+    "duration_seconds": 12.5
+  },
+  {
+    "name": "Yasmine Alonso",
+    "entered": "0:00:46.67",
+    "left": "0:01:16.50",
+    "entered_seconds": 46.67,
+    "left_seconds": 76.5,
+    "duration_seconds": 29.84
+  },
+  {
+    "name": "Kate Baker",
+    "entered": "0:01:23.34",
+    "left": "0:01:52.17",
+    "entered_seconds": 83.34,
+    "left_seconds": 112.17,
+    "duration_seconds": 28.83
+  },
+  {
+    "name": "Unknown",
+    "entered": "0:01:29.01",
+    "left": "0:01:35.17",
+    "entered_seconds": 89.01,
+    "left_seconds": 95.17,
+    "duration_seconds": 6.17
+  },
+  {
+    "name": "Unknown",
+    "entered": "0:01:41.01",
+    "left": "0:01:42.01",
+    "entered_seconds": 101.01,
+    "left_seconds": 102.01,
+    "duration_seconds": 1.0
+  },
+  {
+    "name": "Unknown",
+    "entered": "0:01:44.84",
+    "left": "0:01:47.84",
+    "entered_seconds": 104.84,
+    "left_seconds": 107.84,
+    "duration_seconds": 3.0
+  },
+  {
+    "name": "Yasmine Alonso",
+    "entered": "0:01:56.34",
+    "left": "0:01:58.14",
+    "entered_seconds": 116.34,
+    "left_seconds": 118.14,
+    "duration_seconds": 1.8
+  }
+]
